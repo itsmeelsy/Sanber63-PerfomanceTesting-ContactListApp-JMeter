@@ -9,14 +9,12 @@ Test Plan Scenario :
 Website : https://thinking-tester-contact-list.herokuapp.com/
 
 Contact Feature :
-
-[POST] /users/login
-[POST] /contacts
-[GET] /contacts
-[GET] /contacts/{{contactId}}
-[PUT] /contacts/{{contactId}}
-[PATCH] /contacts/{{contactId}}
-[DELETE] /contacts/{{contactId}}
+1. Login User
+2. Add Contact
+3. Get Contact List
+4. Get Contact
+5. Update Contact
+6. Delete Contact
 
 Recording : https://drive.google.com/drive/folders/1Ne1rntMUtLyo1cKsbWgX0hZn5KG8HDWO?usp=drive_link
 
