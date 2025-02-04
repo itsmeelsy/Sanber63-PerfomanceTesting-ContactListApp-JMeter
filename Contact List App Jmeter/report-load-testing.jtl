@@ -1,0 +1,262 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1738604213101,1960,POST Login User,200,OK,ContactListApp_Contact 1-1,text,true,,1260,282,2,2,https://thinking-tester-contact-list.herokuapp.com/users/login,1960,0,938
+1738604215067,624,POST Add Contacts - 1,201,Created,ContactListApp_Contact 1-1,text,true,,1099,881,2,2,https://thinking-tester-contact-list.herokuapp.com/contacts,624,0,0
+1738604215692,707,POST Add Contacts - 1,201,Created,ContactListApp_Contact 1-1,text,true,,1098,880,2,2,https://thinking-tester-contact-list.herokuapp.com/contacts,707,0,0
+1738604215043,1972,POST Login User,200,OK,ContactListApp_Contact 1-2,text,true,,1276,282,2,2,https://thinking-tester-contact-list.herokuapp.com/users/login,1972,0,880
+1738604216400,624,POST Add Contacts - 1,201,Created,ContactListApp_Contact 1-1,text,true,,1081,879,2,2,https://thinking-tester-contact-list.herokuapp.com/contacts,624,0,0
+1738604217016,640,POST Add Contacts - 2,201,Created,ContactListApp_Contact 1-2,text,true,,1083,881,3,3,https://thinking-tester-contact-list.herokuapp.com/contacts,640,0,0
+1738604217025,632,POST Add Contacts - 1,201,Created,ContactListApp_Contact 1-1,text,true,,1082,880,3,3,https://thinking-tester-contact-list.herokuapp.com/contacts,632,0,0
+1738604217658,631,POST Add Contacts - 1,201,Created,ContactListApp_Contact 1-1,text,true,,1082,880,3,3,https://thinking-tester-contact-list.herokuapp.com/contacts,631,0,0
+1738604217657,636,POST Add Contacts - 2,201,Created,ContactListApp_Contact 1-2,text,true,,1083,881,3,3,https://thinking-tester-contact-list.herokuapp.com/contacts,636,0,0
+1738604218294,661,POST Add Contacts - 2,201,Created,ContactListApp_Contact 1-2,text,true,,1089,879,3,3,https://thinking-tester-contact-list.herokuapp.com/contacts,661,0,0
+1738604217030,1932,POST Login User,200,OK,ContactListApp_Contact 1-3,text,true,,1260,282,3,3,https://thinking-tester-contact-list.herokuapp.com/users/login,1932,0,907
+1738604218955,630,POST Add Contacts - 2,201,Created,ContactListApp_Contact 1-2,text,true,,1091,881,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts,630,0,0
+1738604218963,692,POST Add Contacts - 3,201,Created,ContactListApp_Contact 1-3,text,true,,1090,880,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts,692,0,0
+1738604219586,624,POST Add Contacts - 2,201,Created,ContactListApp_Contact 1-2,text,true,,1087,881,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts,624,0,0
+1738604219656,635,POST Add Contacts - 3,201,Created,ContactListApp_Contact 1-3,text,true,,1086,880,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts,635,0,0
+1738604219028,1899,POST Login User,200,OK,ContactListApp_Contact 1-4,text,true,,1264,282,4,4,https://thinking-tester-contact-list.herokuapp.com/users/login,1899,0,854
+1738604220290,649,POST Add Contacts - 3,201,Created,ContactListApp_Contact 1-3,text,true,,1093,879,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts,649,0,0
+1738604220927,669,POST Add Contacts - 4,201,Created,ContactListApp_Contact 1-4,text,true,,1095,881,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,669,0,0
+1738604220940,666,POST Add Contacts - 3,201,Created,ContactListApp_Contact 1-3,text,true,,1094,880,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,666,0,0
+1738604221597,644,POST Add Contacts - 4,201,Created,ContactListApp_Contact 1-4,text,true,,1087,881,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,644,0,0
+1738604221607,642,POST Add Contacts - 3,201,Created,ContactListApp_Contact 1-3,text,true,,1086,880,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,642,0,0
+1738604222241,710,POST Add Contacts - 4,201,Created,ContactListApp_Contact 1-4,text,true,,1089,879,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,710,0,0
+1738604221026,1925,POST Login User,200,OK,ContactListApp_Contact 1-5,text,true,,1264,282,5,5,https://thinking-tester-contact-list.herokuapp.com/users/login,1925,0,803
+1738604222951,686,POST Add Contacts - 4,201,Created,ContactListApp_Contact 1-4,text,true,,1091,881,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,686,0,0
+1738604222952,685,POST Add Contacts - 5,201,Created,ContactListApp_Contact 1-5,text,true,,1090,880,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,685,0,0
+1738604223638,657,POST Add Contacts - 5,201,Created,ContactListApp_Contact 1-5,text,true,,1086,880,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,657,0,0
+1738604223638,659,POST Add Contacts - 4,201,Created,ContactListApp_Contact 1-4,text,true,,1087,881,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,659,0,0
+1738604224296,638,POST Add Contacts - 5,201,Created,ContactListApp_Contact 1-5,text,true,,1085,879,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,638,0,0
+1738604224936,689,POST Add Contacts - 5,201,Created,ContactListApp_Contact 1-5,text,true,,1087,881,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,689,0,0
+1738604225626,635,POST Add Contacts - 5,201,Created,ContactListApp_Contact 1-5,text,true,,1086,880,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,635,0,0
+1738604218290,8281,GET CONTACT LIST,200,"Number of samples in transaction : 2, number of failing samples : 0",ContactListApp_Contact 1-1,,true,,516911,1473,5,5,null,0,13,0
+1738604218290,7649,GET Contact - 1,200,OK,ContactListApp_Contact 1-1,text,true,,515830,507,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,5745,0,0
+1738604225951,632,GET Contact by ID - 1,200,OK,ContactListApp_Contact 1-1,text,true,,1081,966,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a0febaad458a00134b02ab,632,0,0
+1738604226584,1326,UPDATE CONTACTS,200,"Number of samples in transaction : 2, number of failing samples : 0",ContactListApp_Contact 1-1,,true,,2192,1627,5,5,null,0,1,0
+1738604226584,685,PUT Update Contact - 1,200,OK,ContactListApp_Contact 1-1,text,true,,1098,973,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a0febaad458a00134b02ab,685,0,0
+1738604227270,641,PATCH Update Contact - 1,200,OK,ContactListApp_Contact 1-1,text,true,,1094,654,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a0febaad458a00134b02ab,641,0,0
+1738604227911,702,DELETE CONTACT,200,"Number of samples in transaction : 1, number of failing samples : 0",ContactListApp_Contact 1-1,,true,,752,624,5,5,null,0,2,0
+1738604227912,702,DELETE Contact - 1,200,OK,ContactListApp_Contact 1-1,text,true,,752,624,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a0febaad458a00134b02ab,702,0,0
+1738604220210,8675,GET CONTACT LIST,200,"Number of samples in transaction : 2, number of failing samples : 0",ContactListApp_Contact 1-2,,true,,518572,1474,5,5,null,0,1,0
+1738604220210,7910,GET Contact - 2,200,OK,ContactListApp_Contact 1-2,text,true,,517490,507,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,5731,0,0
+1738604228122,765,GET Contact by ID - 2,200,OK,ContactListApp_Contact 1-2,text,true,,1082,967,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a0febce0f4720013ab9f2b,765,0,0
+1738604228616,744,POST Add Contacts - 1,201,Created,ContactListApp_Contact 1-1,text,true,,1087,716,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,744,0,0
+1738604229361,632,POST Add Contacts - 1,201,Created,ContactListApp_Contact 1-1,text,true,,1090,715,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,632,0,0
+1738604228888,1539,UPDATE CONTACTS,200,"Number of samples in transaction : 2, number of failing samples : 0",ContactListApp_Contact 1-2,,true,,2200,1627,5,5,null,0,2,0
+1738604228888,757,PUT Update Contact - 2,200,OK,ContactListApp_Contact 1-2,text,true,,1098,973,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a0febce0f4720013ab9f2b,757,0,0
+1738604229646,782,PATCH Update Contact - 2,200,OK,ContactListApp_Contact 1-2,text,true,,1102,654,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a0febce0f4720013ab9f2b,782,0,0
+1738604222249,8388,GET CONTACT LIST,200,"Number of samples in transaction : 2, number of failing samples : 0",ContactListApp_Contact 1-3,,true,,519896,1473,5,5,null,0,2,0
+1738604222249,7670,GET Contact - 3,200,OK,ContactListApp_Contact 1-3,text,true,,518811,507,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,5994,0,0
+1738604229921,718,GET Contact by ID - 3,200,OK,ContactListApp_Contact 1-3,text,true,,1085,966,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a0febee0f4720013ab9f2e,718,0,0
+1738604229993,766,POST Add Contacts - 1,201,Created,ContactListApp_Contact 1-1,text,true,,1089,714,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,766,0,0
+1738604230429,642,DELETE CONTACT,200,"Number of samples in transaction : 1, number of failing samples : 0",ContactListApp_Contact 1-2,,true,,756,624,5,5,null,0,0,0
+1738604230429,642,DELETE Contact - 2,200,OK,ContactListApp_Contact 1-2,text,true,,756,624,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a0febce0f4720013ab9f2b,642,0,0
+1738604230759,628,POST Add Contacts - 1,201,Created,ContactListApp_Contact 1-1,text,true,,1087,716,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,628,0,0
+1738604231072,725,POST Add Contacts - 2,201,Created,ContactListApp_Contact 1-2,text,true,,1086,715,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,725,0,0
+1738604231388,726,POST Add Contacts - 1,201,Created,ContactListApp_Contact 1-1,text,true,,1087,716,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,726,0,0
+1738604230640,1474,UPDATE CONTACTS,200,"Number of samples in transaction : 2, number of failing samples : 0",ContactListApp_Contact 1-3,,true,,2196,1627,5,5,null,0,1,0
+1738604230640,718,PUT Update Contact - 3,200,OK,ContactListApp_Contact 1-3,text,true,,1098,973,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a0febee0f4720013ab9f2e,718,0,0
+1738604231358,756,PATCH Update Contact - 3,200,OK,ContactListApp_Contact 1-3,text,true,,1098,654,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a0febee0f4720013ab9f2e,756,0,0
+1738604231798,632,POST Add Contacts - 2,201,Created,ContactListApp_Contact 1-2,text,true,,1086,715,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,632,0,0
+1738604232115,635,DELETE CONTACT,200,"Number of samples in transaction : 1, number of failing samples : 0",ContactListApp_Contact 1-3,,true,,756,624,5,5,null,0,1,0
+1738604232115,635,DELETE Contact - 3,200,OK,ContactListApp_Contact 1-3,text,true,,756,624,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a0febee0f4720013ab9f2e,635,0,0
+1738604224297,8754,GET CONTACT LIST,200,"Number of samples in transaction : 2, number of failing samples : 0",ContactListApp_Contact 1-4,,true,,520552,1474,5,5,null,0,1,0
+1738604224297,8101,GET Contact - 4,200,OK,ContactListApp_Contact 1-4,text,true,,519470,507,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,6014,0,0
+1738604232400,653,GET Contact by ID - 4,200,OK,ContactListApp_Contact 1-4,text,true,,1082,967,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a0fec0e0f4720013ab9f2f,653,0,0
+1738604232430,631,POST Add Contacts - 2,201,Created,ContactListApp_Contact 1-2,text,true,,1085,714,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,631,0,0
+1738604232751,646,POST Add Contacts - 3,201,Created,ContactListApp_Contact 1-3,text,true,,1087,716,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,646,0,0
+1738604233061,650,POST Add Contacts - 2,201,Created,ContactListApp_Contact 1-2,text,true,,1086,715,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,650,0,0
+1738604233398,648,POST Add Contacts - 3,201,Created,ContactListApp_Contact 1-3,text,true,,1087,716,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,648,0,0
+1738604233053,1281,UPDATE CONTACTS,200,"Number of samples in transaction : 2, number of failing samples : 0",ContactListApp_Contact 1-4,,true,,2196,1627,5,5,null,0,1,0
+1738604233054,632,PUT Update Contact - 4,200,OK,ContactListApp_Contact 1-4,text,true,,1098,973,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a0fec0e0f4720013ab9f2f,632,0,0
+1738604233686,649,PATCH Update Contact - 4,200,OK,ContactListApp_Contact 1-4,text,true,,1098,654,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a0fec0e0f4720013ab9f2f,649,0,0
+1738604233712,634,POST Add Contacts - 2,201,Created,ContactListApp_Contact 1-2,text,true,,1086,715,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,634,0,0
+1738604234047,647,POST Add Contacts - 3,201,Created,ContactListApp_Contact 1-3,text,true,,1081,714,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,647,0,0
+1738604234335,699,DELETE CONTACT,200,"Number of samples in transaction : 1, number of failing samples : 0",ContactListApp_Contact 1-4,,true,,752,624,5,5,null,0,1,0
+1738604234336,699,DELETE Contact - 4,200,OK,ContactListApp_Contact 1-4,text,true,,752,624,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a0fec0e0f4720013ab9f2f,699,0,0
+1738604226262,8868,GET CONTACT LIST,200,"Number of samples in transaction : 2, number of failing samples : 0",ContactListApp_Contact 1-5,,true,,521210,1473,5,5,null,0,1,0
+1738604226262,8184,GET Contact - 5,200,OK,ContactListApp_Contact 1-5,text,true,,520133,507,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,5850,0,0
+1738604234447,684,GET Contact by ID - 5,200,OK,ContactListApp_Contact 1-5,text,true,,1077,966,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a0fec2ad458a00134b02b8,684,0,0
+1738604234695,685,POST Add Contacts - 3,201,Created,ContactListApp_Contact 1-3,text,true,,1083,716,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,684,0,0
+1738604235035,640,POST Add Contacts - 4,201,Created,ContactListApp_Contact 1-4,text,true,,1082,715,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,640,0,0
+1738604235380,656,POST Add Contacts - 3,201,Created,ContactListApp_Contact 1-3,text,true,,1087,716,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,656,0,0
+1738604235675,632,POST Add Contacts - 4,201,Created,ContactListApp_Contact 1-4,text,true,,1086,715,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,632,0,0
+1738604235145,1358,UPDATE CONTACTS,200,"Number of samples in transaction : 2, number of failing samples : 0",ContactListApp_Contact 1-5,,true,,2196,1627,5,5,null,0,2,0
+1738604235146,709,PUT Update Contact - 5,200,OK,ContactListApp_Contact 1-5,text,true,,1098,973,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a0fec2ad458a00134b02b8,709,0,0
+1738604235855,649,PATCH Update Contact - 5,200,OK,ContactListApp_Contact 1-5,text,true,,1098,654,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a0fec2ad458a00134b02b8,649,0,0
+1738604236308,674,POST Add Contacts - 4,201,Created,ContactListApp_Contact 1-4,text,true,,1085,714,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,674,0,0
+1738604236505,679,DELETE CONTACT,200,"Number of samples in transaction : 1, number of failing samples : 0",ContactListApp_Contact 1-5,,true,,756,624,5,5,null,0,1,0
+1738604236505,679,DELETE Contact - 5,200,OK,ContactListApp_Contact 1-5,text,true,,756,624,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a0fec2ad458a00134b02b8,679,0,0
+1738604236982,639,POST Add Contacts - 4,201,Created,ContactListApp_Contact 1-4,text,true,,1087,716,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,639,0,0
+1738604237186,830,POST Add Contacts - 5,201,Created,ContactListApp_Contact 1-5,text,true,,1090,715,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,830,0,0
+1738604237622,745,POST Add Contacts - 4,201,Created,ContactListApp_Contact 1-4,text,true,,1091,716,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,745,0,0
+1738604238017,649,POST Add Contacts - 5,201,Created,ContactListApp_Contact 1-5,text,true,,1090,715,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,649,0,0
+1738604238666,728,POST Add Contacts - 5,201,Created,ContactListApp_Contact 1-5,text,true,,1081,714,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,728,0,0
+1738604239395,762,POST Add Contacts - 5,201,Created,ContactListApp_Contact 1-5,text,true,,1087,716,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,762,0,0
+1738604232115,8348,GET CONTACT LIST,200,"Number of samples in transaction : 2, number of failing samples : 0",ContactListApp_Contact 1-1,,true,,523880,1144,5,5,null,0,1,0
+1738604232115,7695,GET Contact - 1,200,OK,ContactListApp_Contact 1-1,text,true,,522798,342,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,6199,0,0
+1738604239811,653,GET Contact by ID - 1,200,OK,ContactListApp_Contact 1-1,text,true,,1082,802,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a0fec8ad458a00134b02bc,652,0,0
+1738604240158,639,POST Add Contacts - 5,201,Created,ContactListApp_Contact 1-5,text,true,,1090,715,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,639,0,0
+1738604240464,1326,UPDATE CONTACTS,200,"Number of samples in transaction : 2, number of failing samples : 0",ContactListApp_Contact 1-1,,true,,2200,1297,5,5,null,0,0,0
+1738604240464,636,PUT Update Contact - 1,200,OK,ContactListApp_Contact 1-1,text,true,,1102,808,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a0fec8ad458a00134b02bc,635,0,0
+1738604241100,690,PATCH Update Contact - 1,200,OK,ContactListApp_Contact 1-1,text,true,,1098,489,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a0fec8ad458a00134b02bc,689,0,0
+1738604241790,653,DELETE CONTACT,200,"Number of samples in transaction : 1, number of failing samples : 0",ContactListApp_Contact 1-1,,true,,756,459,5,5,null,0,0,0
+1738604241790,653,DELETE Contact - 1,200,OK,ContactListApp_Contact 1-1,text,true,,756,459,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a0fec8ad458a00134b02bc,653,0,0
+1738604234346,8560,GET CONTACT LIST,200,"Number of samples in transaction : 2, number of failing samples : 0",ContactListApp_Contact 1-2,,true,,524851,1143,5,5,null,0,0,0
+1738604234346,7793,GET Contact - 2,200,OK,ContactListApp_Contact 1-2,text,true,,523770,342,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,6118,0,0
+1738604242139,767,GET Contact by ID - 2,200,OK,ContactListApp_Contact 1-2,text,true,,1081,801,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a0fecbe0f4720013ab9f37,767,0,0
+1738604242444,643,POST Add Contacts - 1,201,Created,ContactListApp_Contact 1-1,text,true,,1087,716,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,643,0,0
+1738604243087,757,POST Add Contacts - 1,201,Created,ContactListApp_Contact 1-1,text,true,,1102,715,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,757,0,0
+1738604236037,8173,GET CONTACT LIST,200,"Number of samples in transaction : 2, number of failing samples : 0",ContactListApp_Contact 1-3,,true,,526545,1144,5,5,null,0,1,0
+1738604236037,7540,GET Contact - 3,200,OK,ContactListApp_Contact 1-3,text,true,,525447,342,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,6107,0,0
+1738604243577,633,GET Contact by ID - 3,200,OK,ContactListApp_Contact 1-3,text,true,,1098,802,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a0feccad458a00134b02c0,633,0,0
+1738604242906,1359,UPDATE CONTACTS,200,"Number of samples in transaction : 2, number of failing samples : 0",ContactListApp_Contact 1-2,,true,,2212,1297,5,5,null,0,1,0
+1738604242906,639,PUT Update Contact - 2,200,OK,ContactListApp_Contact 1-2,text,true,,1098,808,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a0fecbe0f4720013ab9f37,639,0,0
+1738604243546,720,PATCH Update Contact - 2,200,OK,ContactListApp_Contact 1-2,text,true,,1114,489,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a0fecbe0f4720013ab9f37,719,0,0
+1738604243845,727,POST Add Contacts - 1,201,Created,ContactListApp_Contact 1-1,text,true,,1101,714,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,727,0,0
+1738604244279,631,DELETE CONTACT,200,"Number of samples in transaction : 1, number of failing samples : 0",ContactListApp_Contact 1-2,,true,,752,459,5,5,null,0,0,0
+1738604244279,631,DELETE Contact - 2,200,OK,ContactListApp_Contact 1-2,text,true,,752,459,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a0fecbe0f4720013ab9f37,631,0,0
+1738604244573,637,POST Add Contacts - 1,201,Created,ContactListApp_Contact 1-1,text,true,,1083,716,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,637,0,0
+1738604244910,633,POST Add Contacts - 2,201,Created,ContactListApp_Contact 1-2,text,true,,1082,715,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,633,0,0
+1738604244211,1355,UPDATE CONTACTS,200,"Number of samples in transaction : 2, number of failing samples : 0",ContactListApp_Contact 1-3,,true,,2188,1297,5,5,null,0,1,0
+1738604244211,682,PUT Update Contact - 3,200,OK,ContactListApp_Contact 1-3,text,true,,1094,808,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a0feccad458a00134b02c0,682,0,0
+1738604244894,673,PATCH Update Contact - 3,200,OK,ContactListApp_Contact 1-3,text,true,,1094,489,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a0feccad458a00134b02c0,673,0,0
+1738604245211,633,POST Add Contacts - 1,201,Created,ContactListApp_Contact 1-1,text,true,,1087,716,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,633,0,0
+1738604245543,633,POST Add Contacts - 2,201,Created,ContactListApp_Contact 1-2,text,true,,1086,715,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,633,0,0
+1738604245567,637,DELETE CONTACT,200,"Number of samples in transaction : 1, number of failing samples : 0",ContactListApp_Contact 1-3,,true,,756,459,5,5,null,0,0,0
+1738604245567,637,DELETE Contact - 3,200,OK,ContactListApp_Contact 1-3,text,true,,756,459,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a0feccad458a00134b02c0,637,0,0
+1738604246176,637,POST Add Contacts - 2,201,Created,ContactListApp_Contact 1-2,text,true,,1089,714,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,637,0,0
+1738604246204,634,POST Add Contacts - 3,201,Created,ContactListApp_Contact 1-3,text,true,,1091,716,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,634,0,0
+1738604238367,8664,GET CONTACT LIST,200,"Number of samples in transaction : 2, number of failing samples : 0",ContactListApp_Contact 1-4,,true,,527506,1144,5,5,null,0,1,0
+1738604238367,8030,GET Contact - 4,200,OK,ContactListApp_Contact 1-4,text,true,,526420,342,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,6193,0,0
+1738604246398,634,GET Contact by ID - 4,200,OK,ContactListApp_Contact 1-4,text,true,,1086,802,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a0fecfad458a00134b02c4,634,0,0
+1738604246813,634,POST Add Contacts - 2,201,Created,ContactListApp_Contact 1-2,text,true,,1090,715,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,634,0,0
+1738604246838,666,POST Add Contacts - 3,201,Created,ContactListApp_Contact 1-3,text,true,,1091,716,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,666,0,0
+1738604247448,645,POST Add Contacts - 2,201,Created,ContactListApp_Contact 1-2,text,true,,1094,715,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,645,0,0
+1738604247505,690,POST Add Contacts - 3,201,Created,ContactListApp_Contact 1-3,text,true,,1093,714,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,690,0,0
+1738604247032,1298,UPDATE CONTACTS,200,"Number of samples in transaction : 2, number of failing samples : 0",ContactListApp_Contact 1-4,,true,,2208,1297,5,5,null,0,0,0
+1738604247032,655,PUT Update Contact - 4,200,OK,ContactListApp_Contact 1-4,text,true,,1102,808,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a0fecfad458a00134b02c4,655,0,0
+1738604247687,643,PATCH Update Contact - 4,200,OK,ContactListApp_Contact 1-4,text,true,,1106,489,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a0fecfad458a00134b02c4,643,0,0
+1738604248196,664,POST Add Contacts - 3,201,Created,ContactListApp_Contact 1-3,text,true,,1087,716,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,664,0,0
+1738604248348,716,DELETE CONTACT,200,"Number of samples in transaction : 1, number of failing samples : 0",ContactListApp_Contact 1-4,,true,,756,459,5,5,null,0,1,0
+1738604248349,716,DELETE Contact - 4,200,OK,ContactListApp_Contact 1-4,text,true,,756,459,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a0fecfad458a00134b02c4,716,0,0
+1738604240797,8469,GET CONTACT LIST,200,"Number of samples in transaction : 2, number of failing samples : 0",ContactListApp_Contact 1-5,,true,,527857,1143,5,5,null,0,2,0
+1738604240798,7778,GET Contact - 5,200,OK,ContactListApp_Contact 1-5,text,true,,526776,342,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,5913,0,0
+1738604248577,691,GET Contact by ID - 5,200,OK,ContactListApp_Contact 1-5,text,true,,1081,801,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a0fed1ad458a00134b02c6,691,0,0
+1738604248862,869,POST Add Contacts - 3,201,Created,ContactListApp_Contact 1-3,text,true,,1086,715,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,869,0,0
+1738604249066,705,POST Add Contacts - 4,201,Created,ContactListApp_Contact 1-4,text,true,,1087,716,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,705,0,0
+1738604249772,638,POST Add Contacts - 4,201,Created,ContactListApp_Contact 1-4,text,true,,1086,715,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,638,0,0
+1738604249268,1430,UPDATE CONTACTS,200,"Number of samples in transaction : 2, number of failing samples : 0",ContactListApp_Contact 1-5,,true,,2196,1297,5,5,null,0,1,0
+1738604249268,716,PUT Update Contact - 5,200,OK,ContactListApp_Contact 1-5,text,true,,1098,808,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a0fed1ad458a00134b02c6,716,0,0
+1738604249985,714,PATCH Update Contact - 5,200,OK,ContactListApp_Contact 1-5,text,true,,1098,489,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a0fed1ad458a00134b02c6,714,0,0
+1738604250411,633,POST Add Contacts - 4,201,Created,ContactListApp_Contact 1-4,text,true,,1093,714,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,633,0,0
+1738604250699,652,DELETE CONTACT,200,"Number of samples in transaction : 1, number of failing samples : 0",ContactListApp_Contact 1-5,,true,,764,459,5,5,null,0,0,0
+1738604250699,652,DELETE Contact - 5,200,OK,ContactListApp_Contact 1-5,text,true,,764,459,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a0fed1ad458a00134b02c6,652,0,0
+1738604251045,799,POST Add Contacts - 4,201,Created,ContactListApp_Contact 1-4,text,true,,1095,716,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,799,0,0
+1738604251353,685,POST Add Contacts - 5,201,Created,ContactListApp_Contact 1-5,text,true,,1082,715,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,685,0,0
+1738604251844,702,POST Add Contacts - 4,201,Created,ContactListApp_Contact 1-4,text,true,,1083,716,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,702,0,0
+1738604252038,629,POST Add Contacts - 5,201,Created,ContactListApp_Contact 1-5,text,true,,1082,715,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,629,0,0
+1738604252668,644,POST Add Contacts - 5,201,Created,ContactListApp_Contact 1-5,text,true,,1093,714,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,644,0,0
+1738604253313,662,POST Add Contacts - 5,201,Created,ContactListApp_Contact 1-5,text,true,,1087,716,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,662,0,0
+1738604245845,8211,GET CONTACT LIST,200,"Number of samples in transaction : 2, number of failing samples : 0",ContactListApp_Contact 1-1,,true,,529824,1144,5,5,null,0,0,0
+1738604245845,7583,GET Contact - 1,200,OK,ContactListApp_Contact 1-1,text,true,,528742,342,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,6217,0,0
+1738604253428,628,GET Contact by ID - 1,200,OK,ContactListApp_Contact 1-1,text,true,,1082,802,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a0fed6e0f4720013ab9f40,628,0,0
+1738604253976,722,POST Add Contacts - 5,201,Created,ContactListApp_Contact 1-5,text,true,,1086,715,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,722,0,0
+1738604254056,1345,UPDATE CONTACTS,200,"Number of samples in transaction : 2, number of failing samples : 0",ContactListApp_Contact 1-1,,true,,2212,1297,5,5,null,0,1,0
+1738604254056,657,PUT Update Contact - 1,200,OK,ContactListApp_Contact 1-1,text,true,,1106,808,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a0fed6e0f4720013ab9f40,657,0,0
+1738604254714,688,PATCH Update Contact - 1,200,OK,ContactListApp_Contact 1-1,text,true,,1106,489,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a0fed6e0f4720013ab9f40,688,0,0
+1738604255401,693,DELETE CONTACT,200,"Number of samples in transaction : 1, number of failing samples : 0",ContactListApp_Contact 1-1,,true,,752,459,5,5,null,0,1,0
+1738604255401,693,DELETE Contact - 1,200,OK,ContactListApp_Contact 1-1,text,true,,752,459,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a0fed6e0f4720013ab9f40,693,0,0
+1738604248093,8308,GET CONTACT LIST,200,"Number of samples in transaction : 2, number of failing samples : 0",ContactListApp_Contact 1-2,,true,,532153,1143,5,5,null,0,0,0
+1738604248093,7676,GET Contact - 2,200,OK,ContactListApp_Contact 1-2,text,true,,531076,342,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,5888,0,0
+1738604255768,632,GET Contact by ID - 2,200,OK,ContactListApp_Contact 1-2,text,true,,1077,801,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a0fed8e0f4720013ab9f43,632,0,0
+1738604256095,638,POST Add Contacts - 1,201,Created,ContactListApp_Contact 1-1,text,true,,1087,716,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,638,0,0
+1738604256733,673,POST Add Contacts - 1,201,Created,ContactListApp_Contact 1-1,text,true,,1086,715,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,673,0,0
+1738604256400,1337,UPDATE CONTACTS,200,"Number of samples in transaction : 2, number of failing samples : 0",ContactListApp_Contact 1-2,,true,,2200,1297,5,5,null,0,0,0
+1738604256400,683,PUT Update Contact - 2,200,OK,ContactListApp_Contact 1-2,text,true,,1098,808,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a0fed8e0f4720013ab9f43,683,0,0
+1738604257083,654,PATCH Update Contact - 2,200,OK,ContactListApp_Contact 1-2,text,true,,1102,489,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a0fed8e0f4720013ab9f43,654,0,0
+1738604257406,660,POST Add Contacts - 1,201,Created,ContactListApp_Contact 1-1,text,true,,1089,714,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,660,0,0
+1738604249731,8651,GET CONTACT LIST,200,"Number of samples in transaction : 2, number of failing samples : 0",ContactListApp_Contact 1-3,,true,,532824,1143,5,5,null,0,0,0
+1738604249731,7941,GET Contact - 3,200,OK,ContactListApp_Contact 1-3,text,true,,531739,342,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,6298,0,0
+1738604257671,710,GET Contact by ID - 3,200,OK,ContactListApp_Contact 1-3,text,true,,1085,801,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a0fedae0f4720013ab9f46,710,0,0
+1738604257737,646,DELETE CONTACT,200,"Number of samples in transaction : 1, number of failing samples : 0",ContactListApp_Contact 1-2,,true,,760,459,5,5,null,0,0,0
+1738604257737,646,DELETE Contact - 2,200,OK,ContactListApp_Contact 1-2,text,true,,760,459,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a0fed8e0f4720013ab9f43,646,0,0
+1738604258066,665,POST Add Contacts - 1,201,Created,ContactListApp_Contact 1-1,text,true,,1087,716,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,665,0,0
+1738604258383,656,POST Add Contacts - 2,201,Created,ContactListApp_Contact 1-2,text,true,,1086,715,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,656,0,0
+1738604258732,643,POST Add Contacts - 1,201,Created,ContactListApp_Contact 1-1,text,true,,1087,716,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,643,0,0
+1738604258381,1354,UPDATE CONTACTS,200,"Number of samples in transaction : 2, number of failing samples : 0",ContactListApp_Contact 1-3,,true,,2196,1297,5,5,null,0,2,0
+1738604258382,657,PUT Update Contact - 3,200,OK,ContactListApp_Contact 1-3,text,true,,1098,808,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a0fedae0f4720013ab9f46,657,0,0
+1738604259039,697,PATCH Update Contact - 3,200,OK,ContactListApp_Contact 1-3,text,true,,1098,489,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a0fedae0f4720013ab9f46,697,0,0
+1738604259039,698,POST Add Contacts - 2,201,Created,ContactListApp_Contact 1-2,text,true,,1086,715,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,698,0,0
+1738604259737,692,DELETE CONTACT,200,"Number of samples in transaction : 1, number of failing samples : 0",ContactListApp_Contact 1-3,,true,,756,459,5,5,null,0,0,0
+1738604259737,692,DELETE Contact - 3,200,OK,ContactListApp_Contact 1-3,text,true,,756,459,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a0fedae0f4720013ab9f46,692,0,0
+1738604259737,692,POST Add Contacts - 2,201,Created,ContactListApp_Contact 1-2,text,true,,1085,714,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,692,0,0
+1738604252546,8247,GET CONTACT LIST,200,"Number of samples in transaction : 2, number of failing samples : 0",ContactListApp_Contact 1-4,,true,,534152,1144,5,5,null,0,2,0
+1738604252546,7614,GET Contact - 4,200,OK,ContactListApp_Contact 1-4,text,true,,533054,342,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,5905,0,0
+1738604260161,633,GET Contact by ID - 4,200,OK,ContactListApp_Contact 1-4,text,true,,1098,802,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a0feddad458a00134b02cf,633,0,0
+1738604260430,629,POST Add Contacts - 2,201,Created,ContactListApp_Contact 1-2,text,true,,1103,716,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,629,0,0
+1738604260430,638,POST Add Contacts - 3,201,Created,ContactListApp_Contact 1-3,text,true,,1102,715,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,638,0,0
+1738604261060,733,POST Add Contacts - 2,201,Created,ContactListApp_Contact 1-2,text,true,,1091,716,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,733,0,0
+1738604261068,725,POST Add Contacts - 3,201,Created,ContactListApp_Contact 1-3,text,true,,1090,715,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,725,0,0
+1738604260795,1479,UPDATE CONTACTS,200,"Number of samples in transaction : 2, number of failing samples : 0",ContactListApp_Contact 1-4,,true,,2216,1297,5,5,null,0,0,0
+1738604260795,762,PUT Update Contact - 4,200,OK,ContactListApp_Contact 1-4,text,true,,1114,808,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a0feddad458a00134b02cf,762,0,0
+1738604261557,717,PATCH Update Contact - 4,200,OK,ContactListApp_Contact 1-4,text,true,,1102,489,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a0feddad458a00134b02cf,717,0,0
+1738604261794,720,POST Add Contacts - 3,201,Created,ContactListApp_Contact 1-3,text,true,,1089,714,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,720,0,0
+1738604262274,637,DELETE CONTACT,200,"Number of samples in transaction : 1, number of failing samples : 0",ContactListApp_Contact 1-4,,true,,752,459,5,5,null,0,0,0
+1738604262274,637,DELETE Contact - 4,200,OK,ContactListApp_Contact 1-4,text,true,,752,459,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a0feddad458a00134b02cf,637,0,0
+1738604262514,638,POST Add Contacts - 3,201,Created,ContactListApp_Contact 1-3,text,true,,1083,716,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,638,0,0
+1738604262912,639,POST Add Contacts - 4,201,Created,ContactListApp_Contact 1-4,text,true,,1082,715,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,639,0,0
+1738604263153,673,POST Add Contacts - 3,201,Created,ContactListApp_Contact 1-3,text,true,,1091,716,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,673,0,0
+1738604263588,643,POST Add Contacts - 4,201,Created,ContactListApp_Contact 1-4,text,true,,1090,715,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,643,0,0
+1738604264231,704,POST Add Contacts - 4,201,Created,ContactListApp_Contact 1-4,text,true,,1081,714,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,704,0,0
+1738604254698,10341,GET CONTACT LIST,200,"Number of samples in transaction : 2, number of failing samples : 0",ContactListApp_Contact 1-5,,true,,534479,1143,5,5,null,0,0,0
+1738604254698,9708,GET Contact - 5,200,OK,ContactListApp_Contact 1-5,text,true,,533402,342,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,6282,0,0
+1738604264406,633,GET Contact by ID - 5,200,OK,ContactListApp_Contact 1-5,text,true,,1077,801,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a0fedfe0f4720013ab9f4c,633,0,0
+1738604264936,633,POST Add Contacts - 4,201,Created,ContactListApp_Contact 1-4,text,true,,1083,716,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,633,0,0
+1738604265569,640,POST Add Contacts - 4,201,Created,ContactListApp_Contact 1-4,text,true,,1090,715,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,640,0,0
+1738604265039,1319,UPDATE CONTACTS,200,"Number of samples in transaction : 2, number of failing samples : 0",ContactListApp_Contact 1-5,,true,,2196,1297,5,5,null,0,2,0
+1738604265040,660,PUT Update Contact - 5,200,OK,ContactListApp_Contact 1-5,text,true,,1094,808,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a0fedfe0f4720013ab9f4c,659,0,0
+1738604265700,659,PATCH Update Contact - 5,200,OK,ContactListApp_Contact 1-5,text,true,,1102,489,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a0fedfe0f4720013ab9f4c,659,0,0
+1738604266360,725,DELETE CONTACT,200,"Number of samples in transaction : 1, number of failing samples : 0",ContactListApp_Contact 1-5,,true,,756,459,5,5,null,0,0,0
+1738604266360,725,DELETE Contact - 5,200,OK,ContactListApp_Contact 1-5,text,true,,756,459,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a0fedfe0f4720013ab9f4c,725,0,0
+1738604259375,7878,GET CONTACT LIST,200,"Number of samples in transaction : 2, number of failing samples : 0",ContactListApp_Contact 1-1,,true,,537126,1144,5,5,null,0,0,0
+1738604259375,7247,GET Contact - 1,200,OK,ContactListApp_Contact 1-1,text,true,,536044,342,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,6192,0,0
+1738604266623,631,GET Contact by ID - 1,200,OK,ContactListApp_Contact 1-1,text,true,,1082,802,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a0fee4ad458a00134b02d3,631,0,0
+1738604267086,666,POST Add Contacts - 5,201,Created,ContactListApp_Contact 1-5,text,true,,1095,716,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,666,0,0
+1738604267753,630,POST Add Contacts - 5,201,Created,ContactListApp_Contact 1-5,text,true,,1094,715,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,630,0,0
+1738604267254,1397,UPDATE CONTACTS,200,"Number of samples in transaction : 2, number of failing samples : 0",ContactListApp_Contact 1-1,,true,,2212,1297,5,5,null,0,2,0
+1738604267255,758,PUT Update Contact - 1,200,OK,ContactListApp_Contact 1-1,text,true,,1106,808,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a0fee4ad458a00134b02d3,758,0,0
+1738604268014,639,PATCH Update Contact - 1,200,OK,ContactListApp_Contact 1-1,text,true,,1106,489,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a0fee4ad458a00134b02d3,639,0,0
+1738604268384,633,POST Add Contacts - 5,201,Created,ContactListApp_Contact 1-5,text,true,,1089,714,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,633,0,0
+1738604268654,686,DELETE CONTACT,200,"Number of samples in transaction : 1, number of failing samples : 0",ContactListApp_Contact 1-1,,true,,760,459,5,5,null,0,0,0
+1738604268654,686,DELETE Contact - 1,200,OK,ContactListApp_Contact 1-1,text,true,,760,459,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a0fee4ad458a00134b02d3,686,0,0
+1738604261794,7867,GET CONTACT LIST,200,"Number of samples in transaction : 2, number of failing samples : 0",ContactListApp_Contact 1-2,,true,,538126,1144,5,5,null,0,0,0
+1738604261794,7222,GET Contact - 2,200,OK,ContactListApp_Contact 1-2,text,true,,537040,342,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,6219,0,0
+1738604269016,645,GET Contact by ID - 2,200,OK,ContactListApp_Contact 1-2,text,true,,1086,802,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a0fee6e0f4720013ab9f51,645,0,0
+1738604269017,669,POST Add Contacts - 5,201,Created,ContactListApp_Contact 1-5,text,true,,1091,716,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,669,0,0
+1738604269341,638,POST Add Contacts - 1,201,Created,ContactListApp_Contact 1-1,text,true,,1086,715,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,638,0,0
+1738604269686,679,POST Add Contacts - 5,201,Created,ContactListApp_Contact 1-5,text,true,,1087,716,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,679,0,0
+1738604269980,694,POST Add Contacts - 1,201,Created,ContactListApp_Contact 1-1,text,true,,1086,715,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,694,0,0
+1738604269679,1352,UPDATE CONTACTS,200,"Number of samples in transaction : 2, number of failing samples : 0",ContactListApp_Contact 1-2,,true,,2200,1297,5,5,null,0,1,0
+1738604269680,685,PUT Update Contact - 2,200,OK,ContactListApp_Contact 1-2,text,true,,1098,808,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a0fee6e0f4720013ab9f51,685,0,0
+1738604270365,667,PATCH Update Contact - 2,200,OK,ContactListApp_Contact 1-2,text,true,,1102,489,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a0fee6e0f4720013ab9f51,667,0,0
+1738604270692,648,POST Add Contacts - 1,201,Created,ContactListApp_Contact 1-1,text,true,,1089,714,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,648,0,0
+1738604271032,631,DELETE CONTACT,200,"Number of samples in transaction : 1, number of failing samples : 0",ContactListApp_Contact 1-2,,true,,760,459,5,5,null,0,1,0
+1738604271033,631,DELETE Contact - 2,200,OK,ContactListApp_Contact 1-2,text,true,,760,459,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a0fee6e0f4720013ab9f51,631,0,0
+1738604271340,660,POST Add Contacts - 1,201,Created,ContactListApp_Contact 1-1,text,true,,1091,716,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,660,0,0
+1738604263827,8463,GET CONTACT LIST,200,"Number of samples in transaction : 2, number of failing samples : 0",ContactListApp_Contact 1-3,,true,,538773,1144,5,5,null,0,0,0
+1738604263827,7719,GET Contact - 3,200,OK,ContactListApp_Contact 1-3,text,true,,537687,342,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,6025,0,0
+1738604271546,744,GET Contact by ID - 3,200,OK,ContactListApp_Contact 1-3,text,true,,1086,802,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a0fee8e0f4720013ab9f52,744,0,0
+1738604271711,640,POST Add Contacts - 2,201,Created,ContactListApp_Contact 1-2,text,true,,1090,715,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,640,0,0
+1738604272001,632,POST Add Contacts - 1,201,Created,ContactListApp_Contact 1-1,text,true,,1091,716,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,632,0,0
+1738604272351,628,POST Add Contacts - 2,201,Created,ContactListApp_Contact 1-2,text,true,,1086,715,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,628,0,0
+1738604272979,673,POST Add Contacts - 2,201,Created,ContactListApp_Contact 1-2,text,true,,1085,714,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,673,0,0
+1738604272290,1362,UPDATE CONTACTS,200,,ContactListApp_Contact 1-3,,true,,2196,1297,5,5,null,0,0,0
+1738604272290,646,PUT Update Contact - 3,200,OK,ContactListApp_Contact 1-3,text,true,,1098,808,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a0fee8e0f4720013ab9f52,645,0,0
+1738604272936,716,PATCH Update Contact - 3,200,OK,ContactListApp_Contact 1-3,text,true,,1098,489,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a0fee8e0f4720013ab9f52,716,0,0
+1738604266209,7836,GET CONTACT LIST,200,,ContactListApp_Contact 1-4,,true,,539355,342,3,3,null,0,0,0
+1738604266209,7836,GET Contact - 4,200,OK,ContactListApp_Contact 1-4,text,true,,539355,342,3,3,https://thinking-tester-contact-list.herokuapp.com/contacts,6313,0,0
+1738604270365,8974,GET CONTACT LIST,200,,ContactListApp_Contact 1-5,,true,,541014,342,2,2,null,0,0,0
+1738604270365,8974,GET Contact - 5,200,OK,ContactListApp_Contact 1-5,text,true,,541014,342,2,2,https://thinking-tester-contact-list.herokuapp.com/contacts,6282,0,0
+1738604272633,7677,GET CONTACT LIST,200,,ContactListApp_Contact 1-1,,true,,541672,342,1,1,null,0,0,0
+1738604272633,7677,GET Contact - 1,200,OK,ContactListApp_Contact 1-1,text,true,,541672,342,1,1,https://thinking-tester-contact-list.herokuapp.com/contacts,6259,0,0
